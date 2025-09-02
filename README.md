@@ -18,3 +18,10 @@ It demonstrates how to containerize a Python Flask web application, connect it t
 2. **Build and start the containers**
    ```bash
    docker compose up --build
+
+## 📊 Results
+
+After running the containers, you should see the Flask app output.  
+Here’s a sample result screenshot:
+
+![Results](results.png)
